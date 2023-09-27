@@ -1,0 +1,2 @@
+export { ImageRoutes } from "./image";
+

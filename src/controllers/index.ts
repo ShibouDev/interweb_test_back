@@ -1,0 +1,2 @@
+export { ImageController } from "./image";
+
